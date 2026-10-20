@@ -1,0 +1,9 @@
+# SNN_dropout, SNN_dropconnect and their uncertainty experiments
+torch
+torchvision
+spikingjelly>=0.0.0.0.14
+numpy
+matplotlib
+tqdm
+wandb
+tensorboard

@@ -1,0 +1,8 @@
+# PLIF uses the 2020 SpikingJelly API (spikingjelly.clock_driven)
+torch
+torchvision
+numpy
+tqdm
+wandb
+tensorboard
+spikingjelly @ git+https://github.com/fangwei123456/spikingjelly.git@73f94ab983d0167623015537f7d4460b064cfca1
